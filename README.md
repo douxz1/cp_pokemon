@@ -4,7 +4,7 @@ Projeto do checkpoint - Next.js (App Router) + TypeScript + CSS puro.
 
 ## Link do deploy (Vercel)
 
-COLOQUE_AQUI_O_LINK_PUBLICO
+não tem link no vercel
 
 ## Como rodar
 
