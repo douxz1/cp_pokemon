@@ -11,6 +11,7 @@ não tem link no vercel
     npm install
     npm run dev
 
-Crie o arquivo `.env.local` com a senha (veja `.env.example`):
+LOGIN:
 
-    SENHA_APP=123456
+    SENHA_APP
+     123456
