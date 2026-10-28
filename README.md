@@ -1,6 +1,6 @@
 # Minhas cartas favoritas (Pokémon TCG)
 
-Projeto do checkpoint - Next.js (App Router) + TypeScript + CSS puro.
+Projeto do checkpoint.
 
 ## Link do deploy (Vercel)
 
